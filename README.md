@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/Anthony-webdev/Anthony-webdev/blob/main/img/mesh-1430107_1280.png)
+
 <!--
 **Anthony-webdev/Anthony-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cover](https://github.com/Anthony-webdev/Anthony-webdev/blob/master/img/mesh-1430107_1280.png)
+
